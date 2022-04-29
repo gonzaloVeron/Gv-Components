@@ -1,0 +1,15 @@
+.wrapper{
+    // border: 1px solid black;
+    width: 100%;
+    min-width: 320px;
+    max-width: 420px;
+    height: 100vh;
+    padding: 30px 20px;
+    position: fixed;
+    bottom: 0;
+    top: 0;
+    right: 0;
+    overflow: hidden;
+    pointer-events: none;
+    z-index: 2;
+}

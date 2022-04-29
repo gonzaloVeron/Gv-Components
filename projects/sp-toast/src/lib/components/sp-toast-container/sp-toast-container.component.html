@@ -1,0 +1,5 @@
+<div class="wrapper">
+  <sp-toast [id]="'toast' + i" [title]="t.title" [message]="t.message" [type]="t.type" [time]="time" [withSound]="withSound" (onClose)="removeToast($event)" *ngFor="let t of toasts; let i = index">
+
+  </sp-toast>
+</div>
