@@ -1,5 +1,5 @@
 # SP-TOAST
 
-# Descrition
+# Description
 
 # How to use
